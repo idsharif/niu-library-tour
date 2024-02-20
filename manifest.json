@@ -40,6 +40,7 @@
     }
   ],
   "start_url": "/niu-library-tour",
+  "scope": "/niu-library-tour/",
   "background_color": "#d1005c",
   "display": "standalone",
   "theme_color": "#d1005c"
