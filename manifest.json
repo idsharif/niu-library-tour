@@ -39,7 +39,7 @@
       "purpose": "maskable"
     }
   ],
-  "start_url": "/niu-library-tour",
+  "start_url": "/niu-library-tour/",
   "scope": "/niu-library-tour/",
   "background_color": "#d1005c",
   "display": "standalone",
